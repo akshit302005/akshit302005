@@ -377,25 +377,8 @@ width="100%"
 
 <div align="center">
 
-# `09 // PROBLEM SOLVING`
 
-<br>
-
-<img src="https://leetcard.jacoblin.cool/Akshit2005?theme=dark&font=JetBrains%20Mono&ext=heatmap" width="520"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/DATA_STRUCTURES-050505?style=for-the-badge&logoColor=00D9FF"/>
-<img src="https://img.shields.io/badge/ALGORITHMS-050505?style=for-the-badge&logoColor=00D9FF"/>
-<img src="https://img.shields.io/badge/PROBLEM_SOLVING-050505?style=for-the-badge&logoColor=00D9FF"/>
-
-</div>
-
----
-
-<div align="center">
-
-# `10 // CERTIFICATIONS`
+# `09 // CERTIFICATIONS`
 
 <br>
 
@@ -411,7 +394,7 @@ width="100%"
 
 <div align="center">
 
-# `11 // DEVELOPER LOOP`
+# `10 // DEVELOPER LOOP`
 
 <br>
 
@@ -423,7 +406,7 @@ width="100%"
 
 <div align="center">
 
-# `12 // CONNECT`
+# `11 // CONNECT`
 
 <br>
 
