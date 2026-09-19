@@ -14,16 +14,18 @@
 <a href="https://github.com/akshit302005">
 <img src="https://img.shields.io/badge/GitHub-0F2027?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 <a href="https://www.linkedin.com/in/akshit-dogra/">
 <img src="https://img.shields.io/badge/LinkedIn-203A43?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="https://leetcode.com/Akshit2005/">
 <img src="https://img.shields.io/badge/LeetCode-2C5364?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=203A43&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=akshit302005&label=Profile%20Views&color=203A43&style=flat-square"/>
 
 </div>
 
@@ -269,7 +271,7 @@ Hands-on exposure to networking, routing and cybersecurity fundamentals, includi
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Karma&ext=heatmap" width="500"/>
+<img src="https://leetcard.jacoblin.cool/Akshit2005?theme=dark&font=Karma&ext=heatmap" width="500"/>
 
 </div>
 
@@ -289,9 +291,9 @@ Data Structures & Algorithms
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=akshit302005&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true&langs_count=8"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshit302005&layout=compact&theme=transparent&hide_border=true&langs_count=8"/>
 
 </div>
 
@@ -299,7 +301,7 @@ Data Structures & Algorithms
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=akshit302005&theme=transparent&hide_border=true"/>
 
 </div>
 
@@ -307,75 +309,4 @@ Data Structures & Algorithms
 
 # `> contribution_graph`
 
-<div align="center">
-
-<img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution Snake"/>
-
-</div>
-
----
-
-# `> currently_exploring`
-
-<div align="center">
-
-| Area | Focus                            |
-| :--: | :------------------------------- |
-|   ☕  | **Java & Spring Boot**           |
-|  ⚙️  | **Backend Engineering**          |
-|  🌐  | **Microservices & REST APIs**    |
-|  🗄️ | **SQL & NoSQL Databases**        |
-|  🧠  | **Data Structures & Algorithms** |
-|  🤖  | **AI & Generative AI**           |
-|  ☁️  | **Cloud & DevOps**               |
-
-</div>
-
----
-
-# `> developer_mindset`
-
-<div align="center">
-
-```text
-       LEARN
-         │
-         ▼
-      BUILD
-         │
-         ▼
-      DEBUG
-         │
-         ▼
-      IMPROVE
-         │
-         └──────────────► REPEAT
-```
-
-</div>
-
----
-
-<div align="center">
-
-### Let's build something meaningful.
-
-<br>
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-0F2027?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
-<img src="https://img.shields.io/badge/LinkedIn-203A43?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/">
-<img src="https://img.shields.io/badge/LeetCode-2C5364?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" width="100%"/>
-
-</div>
+<d
